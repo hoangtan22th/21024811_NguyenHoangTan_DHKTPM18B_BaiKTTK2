@@ -12,7 +12,7 @@ html{
     border: 5px solid rgb(231 240 249);
     margin: 0 auto;
     width: 960px;
-    background-image: url(./hinh/bg.png);
+    background-image: url(hinh/bg.png);
     
 }
 button {
